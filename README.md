@@ -23,6 +23,6 @@
 
 
 
-![](redmeimg\page1.jpg)
-![](redmeimg\page2.jpg)
-![](redmeimg\page3.jpg)
+![](images\page1.jpg)
+![](images\page2.jpg)
+![](images\page3.jpg)
