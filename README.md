@@ -12,8 +12,8 @@
      </th>
   </tr>
     <tr>
-      <td data-label="Column 1"><img src='assets\readme\page1.jpg'></td>
-      <td data-label="Column 2"><img src='assets\readme\page2.jpg' ></td>
+      <td data-label="Column 1"><img src='images\one.png'></td>
+      <td data-label="Column 2"><img src='images\two.png' ></td>
     </tr>
   </table>
 </body>
@@ -22,6 +22,6 @@
 
 
 
-![](images\one.png)
+![](images\one.png) 
 ![](images\two.png)
 
