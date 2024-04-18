@@ -14,7 +14,6 @@
     <tr>
       <td data-label="Column 1"><img src='assets\readme\page1.jpg'></td>
       <td data-label="Column 2"><img src='assets\readme\page2.jpg' ></td>
-    <td data-label="Column 3"><img src='assets\readme\page3.jpg'></td>
     </tr>
   </table>
 </body>
@@ -23,6 +22,6 @@
 
 
 
-![](images\page1.jpg)
-![](images\page2.jpg)
-![](images\page3.jpg)
+![](images\one.png)
+![](images\two.png)
+
