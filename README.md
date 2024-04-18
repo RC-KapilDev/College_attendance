@@ -1,16 +1,28 @@
-# qr
+# College attendance Reporter
 
-A new Flutter project.
+<!DOCTYPE html>
+<html>
+<head>
+ </head>
+<body>
+  <table>
+    <tr>
+      <th></th>
+     <th></th>
+      <th></th></th>
+  </tr>
+    <tr>
+      <td data-label="Column 1"><img src='assets\readme\page1.jpg'></td>
+      <td data-label="Column 2"><img src='assets\readme\page2.jpg' ></td>
+    <td data-label="Column 3"><img src='assets\readme\page3.jpg'></td>
+    </tr>
+  </table>
+</body>
+</html>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](redmeimg\page1.jpg)
+![](redmeimg\page2.jpg)
+![](redmeimg\page3.jpg)
